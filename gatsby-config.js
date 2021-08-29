@@ -32,7 +32,7 @@ module.exports = {
         name: 'Workout Planner',
         description:
           'An easy way to save, edit, and manage workout sessions - built with Android Studio (Java)',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
+        link: 'https://github.com/sadiqsada/Workout-Planner',
       }
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
